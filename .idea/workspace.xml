@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70b46d64-38cf-467c-b0b5-005e60bb87f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkout-Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/css/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/data/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/img/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/img/._ear.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/img/._goods-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/img/._goods-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/img/._part-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/img/._part-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/js/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/checkout-Vue/js/lib/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/.idea/checkout-Vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/cartJson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/css/base2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/css/checkout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/css/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/data/account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/data/address.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/data/cart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/img/ear.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/img/goods-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/img/goods-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/img/part-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/img/part-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/js/lib/vue-resource.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-Vue/js/lib/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/example.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/example.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/source/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/source/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/source/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/source/tests/test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/source/tests/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/dist/source/tests/test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_@sindresorhus_is@0.7.0@@sindresorhus/is/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_cacheable-request@2.1.4@cacheable-request/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_cacheable-request@2.1.4@cacheable-request/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_cacheable-request@2.1.4@cacheable-request/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_cacheable-request@2.1.4@cacheable-request/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_clone-response@1.0.2@clone-response/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_clone-response@1.0.2@clone-response/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_clone-response@1.0.2@clone-response/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_clone-response@1.0.2@clone-response/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_core-util-is@1.0.2@core-util-is/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_core-util-is@1.0.2@core-util-is/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_core-util-is@1.0.2@core-util-is/float.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_core-util-is@1.0.2@core-util-is/lib/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_core-util-is@1.0.2@core-util-is/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_core-util-is@1.0.2@core-util-is/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decode-uri-component@0.2.0@decode-uri-component/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decode-uri-component@0.2.0@decode-uri-component/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decode-uri-component@0.2.0@decode-uri-component/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decode-uri-component@0.2.0@decode-uri-component/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decompress-response@3.3.0@decompress-response/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decompress-response@3.3.0@decompress-response/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decompress-response@3.3.0@decompress-response/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_decompress-response@3.3.0@decompress-response/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_duplexer3@0.1.4@duplexer3/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_duplexer3@0.1.4@duplexer3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_duplexer3@0.1.4@duplexer3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_duplexer3@0.1.4@duplexer3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_from2@2.3.0@from2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_from2@2.3.0@from2/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_from2@2.3.0@from2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_from2@2.3.0@from2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_from2@2.3.0@from2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_from2@2.3.0@from2/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_get-stream@3.0.0@get-stream/buffer-stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_get-stream@3.0.0@get-stream/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_get-stream@3.0.0@get-stream/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_get-stream@3.0.0@get-stream/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_get-stream@3.0.0@get-stream/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_got@8.3.2@got/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_got@8.3.2@got/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_got@8.3.2@got/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_got@8.3.2@got/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_got@8.3.2@got/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/.uglifyjsrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/lib/has-symbol-support-x.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/lib/has-symbol-support-x.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/lib/has-symbol-support-x.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/tests/run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-symbol-support-x@1.4.2@has-symbol-support-x/tests/spec/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/.uglifyjsrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/lib/has-to-string-tag-x.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/lib/has-to-string-tag-x.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/lib/has-to-string-tag-x.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_has-to-string-tag-x@1.4.1@has-to-string-tag-x/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_http-cache-semantics@3.8.1@http-cache-semantics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_http-cache-semantics@3.8.1@http-cache-semantics/node4/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_http-cache-semantics@3.8.1@http-cache-semantics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_into-stream@3.1.0@into-stream/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_into-stream@3.1.0@into-stream/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_into-stream@3.1.0@into-stream/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_into-stream@3.1.0@into-stream/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/.jscs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/.testem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-object@1.0.1@is-object/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-plain-obj@1.1.0@is-plain-obj/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-plain-obj@1.1.0@is-plain-obj/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-plain-obj@1.1.0@is-plain-obj/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-plain-obj@1.1.0@is-plain-obj/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-retry-allowed@1.1.0@is-retry-allowed/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-retry-allowed@1.1.0@is-retry-allowed/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-retry-allowed@1.1.0@is-retry-allowed/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_is-retry-allowed@1.1.0@is-retry-allowed/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isarray@1.0.0@isarray/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isurl@1.0.0@isurl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isurl@1.0.0@isurl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isurl@1.0.0@isurl/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_isurl@1.0.0@isurl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_json-buffer@3.0.0@json-buffer/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_keyv@3.0.0@keyv/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_keyv@3.0.0@keyv/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_keyv@3.0.0@keyv/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_keyv@3.0.0@keyv/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.0@lowercase-keys/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.0@lowercase-keys/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.0@lowercase-keys/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.1@lowercase-keys/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.1@lowercase-keys/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.1@lowercase-keys/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_lowercase-keys@1.0.1@lowercase-keys/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_mimic-response@1.0.1@mimic-response/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_mimic-response@1.0.1@mimic-response/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_mimic-response@1.0.1@mimic-response/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_mimic-response@1.0.1@mimic-response/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_normalize-url@2.0.1@normalize-url/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_normalize-url@2.0.1@normalize-url/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_normalize-url@2.0.1@normalize-url/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_normalize-url@2.0.1@normalize-url/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-cancelable@0.4.1@p-cancelable/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-cancelable@0.4.1@p-cancelable/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-cancelable@0.4.1@p-cancelable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-cancelable@0.4.1@p-cancelable/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-finally@1.0.0@p-finally/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-finally@1.0.0@p-finally/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-finally@1.0.0@p-finally/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-finally@1.0.0@p-finally/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-is-promise@1.1.0@p-is-promise/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-is-promise@1.1.0@p-is-promise/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-is-promise@1.1.0@p-is-promise/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-is-promise@1.1.0@p-is-promise/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-timeout@2.0.1@p-timeout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-timeout@2.0.1@p-timeout/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-timeout@2.0.1@p-timeout/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_p-timeout@2.0.1@p-timeout/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_pify@3.0.0@pify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_pify@3.0.0@pify/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_pify@3.0.0@pify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_pify@3.0.0@pify/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_prepend-http@2.0.0@prepend-http/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_prepend-http@2.0.0@prepend-http/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_prepend-http@2.0.0@prepend-http/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_prepend-http@2.0.0@prepend-http/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_process-nextick-args@2.0.0@process-nextick-args/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_process-nextick-args@2.0.0@process-nextick-args/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_process-nextick-args@2.0.0@process-nextick-args/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_process-nextick-args@2.0.0@process-nextick-args/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_query-string@5.1.1@query-string/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_query-string@5.1.1@query-string/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_query-string@5.1.1@query-string/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_query-string@5.1.1@query-string/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/GOVERNANCE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/doc/wg-meetings/2015-01-30.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/duplex-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/duplex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_duplex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_passthrough.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_readable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_transform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_writable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/BufferList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/stream-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/passthrough.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/readable-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/readable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/transform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/writable-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_readable-stream@2.3.6@readable-stream/writable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_responselike@1.0.2@responselike/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_responselike@1.0.2@responselike/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_responselike@1.0.2@responselike/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_responselike@1.0.2@responselike/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_sort-keys@2.0.0@sort-keys/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_sort-keys@2.0.0@sort-keys/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_sort-keys@2.0.0@sort-keys/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_sort-keys@2.0.0@sort-keys/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_strict-uri-encode@1.1.0@strict-uri-encode/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_strict-uri-encode@1.1.0@strict-uri-encode/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_strict-uri-encode@1.1.0@strict-uri-encode/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_strict-uri-encode@1.1.0@strict-uri-encode/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_string_decoder@1.1.1@string_decoder/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_string_decoder@1.1.1@string_decoder/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_string_decoder@1.1.1@string_decoder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_string_decoder@1.1.1@string_decoder/lib/string_decoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_string_decoder@1.1.1@string_decoder/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_timed-out@4.0.1@timed-out/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_timed-out@4.0.1@timed-out/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_timed-out@4.0.1@timed-out/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_timed-out@4.0.1@timed-out/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-parse-lax@3.0.0@url-parse-lax/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-parse-lax@3.0.0@url-parse-lax/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-parse-lax@3.0.0@url-parse-lax/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-parse-lax@3.0.0@url-parse-lax/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-to-options@1.0.1@url-to-options/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-to-options@1.0.1@url-to-options/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-to-options@1.0.1@url-to-options/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_url-to-options@1.0.1@url-to-options/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_util-deprecate@1.0.2@util-deprecate/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_util-deprecate@1.0.2@util-deprecate/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_util-deprecate@1.0.2@util-deprecate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_util-deprecate@1.0.2@util-deprecate/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_util-deprecate@1.0.2@util-deprecate/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_util-deprecate@1.0.2@util-deprecate/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/dist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/dist/vue-resource.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/dist/vue-resource.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/dist/vue-resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/dist/vue-resource.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/client/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/client/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/client/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/client/xdr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/client/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/headers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/before.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/cors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/interceptor/method.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/http/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/lib/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/lib/url-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/url/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/url/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/url/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/url/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/data/invalid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/data/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/data/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/http.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/specs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/test/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/types/vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/types/vue_resource.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue-resource@1.5.1@vue-resource/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.esm.browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.runtime.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.runtime.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/dist/vue.runtime.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/codegen/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/codegen/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/create-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/directives/bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/directives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/directives/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/directives/on.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/error-detector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/optimizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/parser/entity-decoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/parser/filter-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/parser/html-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/parser/text-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/compiler/to-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/components/keep-alive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/global-api/assets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/global-api/extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/global-api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/global-api/mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/global-api/use.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/inject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/lifecycle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/proxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/bind-object-listeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/bind-object-props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/check-keycodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/render-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/render-slot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/render-static.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/resolve-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render-helpers/resolve-slots.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/instance/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/observer/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/observer/dep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/observer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/observer/scheduler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/observer/traverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/observer/watcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/lang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/next-tick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/perf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/util/props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/create-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/create-element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/create-functional-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/extract-props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/get-first-component-child.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/is-async-placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/merge-hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/normalize-children.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/resolve-async-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/helpers/update-listeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/modules/directives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/modules/ref.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/patch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/core/vdom/vnode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/directives/html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/directives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/directives/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/directives/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/modules/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/modules/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/modules/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/compiler/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/entry-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/entry-runtime-with-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/entry-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/entry-server-basic-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/entry-server-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/class-util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/components/transition-group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/components/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/directives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/directives/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/directives/show.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/attrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/dom-props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/modules/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/node-ops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/patch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/runtime/transition-util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/directives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/directives/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/directives/show.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/modules/attrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/modules/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/modules/dom-props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/modules/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/server/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/util/attrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/util/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/util/compat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/util/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/web/util/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/directives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/directives/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/append.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/component-root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/recycle-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/v-bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/v-for.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/v-if.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/v-on.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/recycle-list/v-once.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/compiler/modules/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/entry-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/entry-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/entry-runtime-factory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/components/richtext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/components/transition-group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/components/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/directives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/modules/attrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/modules/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/modules/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/modules/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/modules/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/node-ops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/patch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/recycle-list/render-component-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/recycle-list/virtual-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/runtime/text-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/util/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/platforms/weex/util/parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/bundle-renderer/create-bundle-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/bundle-renderer/create-bundle-runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/bundle-renderer/source-map-support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/create-basic-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/create-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/optimizing-compiler/codegen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/optimizing-compiler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/optimizing-compiler/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/optimizing-compiler/optimizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/optimizing-compiler/runtime-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/render-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/render-stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/template-renderer/create-async-file-mapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/template-renderer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/template-renderer/parse-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/template-renderer/template-stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/webpack-plugin/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/webpack-plugin/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/webpack-plugin/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/server/write.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/sfc/parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/shared/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/src/shared/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/types/options.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/types/plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/types/vnode.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/_vue@2.5.17@vue/types/vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="979192786">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="2" />
+          <entry key="js" value="5" />
+          <entry key="json" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="268" />
+          <entry key="js" value="600" />
+          <entry key="json" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="268" />
+          <entry key="JSON" value="22" />
+          <entry key="JavaScript" value="600" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkout-Vue/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1767">
+              <caret line="93" column="85" selection-start-line="93" selection-start-column="85" selection-end-line="93" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkout-Vue/css/modal.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkout-Vue/address.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkout-Vue/cartJson.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkout-Vue/js/lib/vue.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="5" column="77479" selection-start-line="5" selection-start-column="77479" selection-end-line="5" selection-end-column="77479" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/checkout-Vue/js/cart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>md-overlay</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\work\workspace\checkout-Demo\checkout-Demo\checkout-Vue\js\lib</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/checkout-Vue/cartJson.json" />
+        <option value="$PROJECT_DIR$/checkout-Vue/js/cart.js" />
+        <option value="$PROJECT_DIR$/checkout-Vue/cart.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="860" />
+    <option name="y" value="110" />
+    <option name="width" value="1065" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="checkout-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkout-Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkout-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkout-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout-Vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566807374242" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\workspace\checkout-Demo\checkout-Demo\checkout-Vue" />
+      <recent name="D:\work\workspace\checkout-Demo\checkout-Demo\checkout-Vue\js\lib" />
+      <recent name="D:\work\workspace\checkout-Demo\checkout-Demo\checkout-Vue\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.33" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_checkout-Demo" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58790" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70b46d64-38cf-467c-b0b5-005e60bb87f9" name="Default Changelist" comment="" />
+      <created>1536339388319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536339388319</updated>
+      <workItem from="1536339389778" duration="1059000" />
+      <workItem from="1536343251528" duration="350000" />
+      <workItem from="1536378722220" duration="1321000" />
+      <workItem from="1536590535576" duration="2943000" />
+      <workItem from="1536671823786" duration="3636000" />
+      <workItem from="1536675523872" duration="4870000" />
+      <workItem from="1536760292394" duration="5822000" />
+      <workItem from="1538995844221" duration="1456000" />
+      <workItem from="1539785263910" duration="337000" />
+      <workItem from="1540995505895" duration="132000" />
+      <workItem from="1552911977488" duration="430000" />
+      <workItem from="1566803151698" duration="2009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24365000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13404825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/js/vue.min.js" />
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/js/lib/vue-resource.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="153" selection-start-line="6" selection-start-column="153" selection-end-line="6" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/data/cart.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="93" column="85" selection-start-line="93" selection-start-column="85" selection-end-line="93" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/css/modal.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/address.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/cartJson.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/js/lib/vue.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="77479" selection-start-line="5" selection-start-column="77479" selection-end-line="5" selection-end-column="77479" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout-Vue/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>checkout-Demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28390804" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
